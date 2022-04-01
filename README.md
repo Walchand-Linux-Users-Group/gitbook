@@ -1,6 +1,7 @@
 ---
 description: We now use Gitbook to document everything 😌
 coverY: 0
+layout: landing
 ---
 
 # 🐧 Walchand Linux Users' Group 🤝 Gitbook
