@@ -28,8 +28,5 @@
 
 ## Sub-Domains
 
-* [Event Domains](sub-domains/event-domains.md)
-* [Gitbook Domains](sub-domains/gitbook-domains/README.md)
-  * [Copy of Copy of Page 2](sub-domains/gitbook-domains/copy-of-copy-of-page-2.md)
-* [Github Domains](sub-domains/github-domains/README.md)
-  * [Copy of Copy of Copy of Page 2](sub-domains/github-domains/copy-of-copy-of-copy-of-page-2.md)
+* [🖥 Event Domains](domains/main-domain/copy-of-copy-of-page-1.md)
+* [🖥 Gitbook Domains](sub-domains/gitbook-domains.md)

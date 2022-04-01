@@ -1,6 +1,6 @@
-# Event Domains
+# 🖥 Event Domains
 
-Some sub-domains are reserved specially of events and may/may not be down depending upon event plan.&#x20;
+Some sub-domains are reserved specially for events and may/may not be down andghly depends upon event plan and development.
 
 ### Linux Diary
 
@@ -26,4 +26,3 @@ Some sub-domains are reserved specially of events and may/may not be down depend
 1. Frontend - techno.wcewlug.org
 2. Backend API - api.techno.wcewlug.org
 3. Other - \*.techno.wcewlug.org
-
