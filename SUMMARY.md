@@ -2,51 +2,12 @@
 
 * [Welcome!](README.md)
 
-## About Us
+## The Company
 
-* [Vision and Values](about-us/vision-and-values.md)
-* [Profile Links](about-us/profile-links.md)
+* [Vision and Values](the-company/vision-and-values.md)
+* [Meet the Team!](the-company/meet-the-team.md)
 
-## Tasks Checklist
+## The Formal Stuff
 
-* [Club Services](tasks-checklist/club-services/README.md)
-  * [Page 1](tasks-checklist/club-services/page-1.md)
-* [Blogs](tasks-checklist/blogs/README.md)
-  * [Page 2](tasks-checklist/blogs/page-2.md)
-* [Community Meetups](tasks-checklist/community-meetups/README.md)
-  * [Copy of Page 2](tasks-checklist/community-meetups/copy-of-page-2.md)
-* [Publishing](tasks-checklist/publishing/README.md)
-  * [Copy of Copy of Page 2](tasks-checklist/publishing/copy-of-copy-of-page-2.md)
-
-## Events
-
-* [Linux Diary](events/linux-diary/README.md)
-  * [Copy of Page 1](events/linux-diary/copy-of-page-1.md)
-* [Metamorphosis](events/metamorphosis/README.md)
-  * [Copy of Page 2](events/metamorphosis/copy-of-page-2.md)
-* [Open Source Day](events/open-source-day/README.md)
-  * [Copy of Copy of Page 2](events/open-source-day/copy-of-copy-of-page-2.md)
-* [Technotweet](events/technotweet/README.md)
-  * [Copy of Copy of Page 2](events/technotweet/copy-of-copy-of-page-2.md)
-
-## Domains
-
-* [Main Domain](domains/main-domain/README.md)
-  * [Copy of Copy of Page 1](domains/main-domain/copy-of-copy-of-page-1.md)
-* [Gitbook Domains](domains/gitbook-domains/README.md)
-  * [Copy of Copy of Page 2](domains/gitbook-domains/copy-of-copy-of-page-2.md)
-* [Github Domains](domains/github-domains/README.md)
-  * [Copy of Copy of Copy of Page 2](domains/github-domains/copy-of-copy-of-copy-of-page-2.md)
-
-## Social Presence
-
-* [Discord](social-presence/discord/README.md)
-  * [Copy of Copy of Copy of Page 1](social-presence/discord/copy-of-copy-of-copy-of-page-1.md)
-* [Facebook](social-presence/facebook/README.md)
-  * [Copy of Copy of Copy of Page 2](social-presence/facebook/copy-of-copy-of-copy-of-page-2.md)
-* [Twitter](social-presence/twitter/README.md)
-  * [Copy of Copy of Copy of Copy of Page 2](social-presence/twitter/copy-of-copy-of-copy-of-copy-of-page-2.md)
-* [Instagram](social-presence/instagram/README.md)
-  * [Copy of Copy of Copy of Copy of Copy of Page 2](social-presence/instagram/copy-of-copy-of-copy-of-copy-of-copy-of-page-2.md)
-* [Medium](social-presence/medium/README.md)
-  * [Copy of Copy of Copy of Copy of Copy of Copy of Page 2](social-presence/medium/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-page-2.md)
+* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
+* [Filing Expenses](the-formal-stuff/filing-expenses.md)
