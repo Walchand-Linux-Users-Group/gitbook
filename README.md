@@ -1,6 +1,5 @@
 ---
 description: We now use Gitbook to document everything 😌
-coverY: 0
 layout: landing
 ---
 
