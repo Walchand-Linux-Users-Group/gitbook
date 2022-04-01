@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Walchand Linux Users' Group Blog](README.md)
 
 ## The Company
 
