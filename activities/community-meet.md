@@ -1,7 +1,3 @@
----
-description: We hope you have subscribed us on all the social media profiles 😇
----
-
 # 💻 Community Meet
 
 ### LinkedIn

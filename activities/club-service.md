@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/lug.jpg
-coverY: 3.042218543046358
----
-
 # 🧑🏫 Club Service
 
 ## Our Vision
