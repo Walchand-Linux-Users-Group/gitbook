@@ -4,19 +4,15 @@
 
 ## About Us
 
-* [Vision and Values](about-us/vision-and-values.md)
-* [Profile Links](about-us/profile-links.md)
+* [🎯 Vision and Values](about-us/vision-and-values.md)
+* [🤳 Social Media](about-us/social-media.md)
 
-## Tasks Checklist
+## Activities
 
-* [Club Services](tasks-checklist/club-services/README.md)
-  * [Page 1](tasks-checklist/club-services/page-1.md)
-* [Blogs](tasks-checklist/blogs/README.md)
-  * [Page 2](tasks-checklist/blogs/page-2.md)
-* [Community Meetups](tasks-checklist/community-meetups/README.md)
-  * [Copy of Page 2](tasks-checklist/community-meetups/copy-of-page-2.md)
-* [Publishing](tasks-checklist/publishing/README.md)
-  * [Copy of Copy of Page 2](tasks-checklist/publishing/copy-of-copy-of-page-2.md)
+* [🧑🏫 Club Service](activities/club-service.md)
+* [💻 Community Meet](activities/community-meet.md)
+* [🔐 Cyber Meet](activities/cyber-meet.md)
+* [📄 Blog](activities/blog.md)
 
 ## Events
 
