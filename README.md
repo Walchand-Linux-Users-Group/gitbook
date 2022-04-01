@@ -1,9 +1,18 @@
 ---
+description: We now use Gitbook to document everything 😌
 coverY: 0
 ---
 
-# Welcome!
+# 🐧 Walchand Linux Users' Group 🤝 Gitbook
 
-## Welcome aboard!
+### Wiki
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+{% embed url="https://wiki.wcewlug.org" %}
+
+### Blog
+
+{% embed url="https://blog.wcewlug.org" %}
+
+### Docs
+
+{% embed url="https://docs.wcewlug.org" %}
