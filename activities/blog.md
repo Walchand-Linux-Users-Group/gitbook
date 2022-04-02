@@ -8,6 +8,10 @@ We strongly believe writing is a skill that one should build to survive in this 
 
 We generally publish blog week or biweekly depending on academic plan and other factors. We **support non-WLUGians** to write a blog and contribute our community. But we have some inevitable and strong guidelines that concerned must follow and will be verified by multiple entities.
 
+### Workflow
+
+![](../.gitbook/assets/blog.png)
+
 ### Writer's Guidelines
 
 * [ ] Blog should start with a **Quote**.
