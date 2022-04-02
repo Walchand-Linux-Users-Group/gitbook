@@ -6,7 +6,7 @@ description: We publish blogs weekly/biweekly...
 
 We strongly believe writing is a skill that one should build to survive in this era where we barely interact with each other face to face. Convincing reader and feeding our content to their curiosity in smooth flow is a skill to learn which can be developed by practicing and reading literature.
 
-We generally publish blog week or biweekly depending on academic plan and other factors. We **support non-WLUGians** to write a blog and contribute our community. But we have some inevitable and strong guidelines that concerned must follow and will be verified by multiple entities.
+We generally publish blog **weekly or biweekly** depending on academic plan and other factors. We **support non-WLUGians** to write a blog and contribute to our community. But we have some inevitable and strong guidelines that concerned must follow and will be verified by multiple entities.
 
 ### Workflow
 
