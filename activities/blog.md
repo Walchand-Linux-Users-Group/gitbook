@@ -4,9 +4,9 @@ description: We publish blogs weekly/biweekly...
 
 # 📄 Blog
 
-We believe writing is a skill that one should build to survive in this era as we barely interact with each other face to face. Convincing reader and feeding our content to the curiosity of reader in smooth flow is a thing to learn from practicing and reading literature.
+We strongly believe writing is a skill that one should build to survive in this era where we barely interact with each other face to face. Convincing reader and feeding our content to their curiosity in smooth flow is a skill to learn which can be developed by practicing and reading literature.
 
-We generally publish blog week or biweekly depending on academic plan and other factors. We support non-WLUGians to write a blog and contribute us. But we have some Inevitable and strong guidelines that writers must follow and will be verified by Editors.
+We generally publish blog week or biweekly depending on academic plan and other factors. We **support non-WLUGians** to write a blog and contribute our community. But we have some inevitable and strong guidelines that concerned must follow and will be verified by multiple entities.
 
 ### Writer's Guidelines
 
@@ -27,5 +27,5 @@ We generally publish blog week or biweekly depending on academic plan and other 
 * [ ] Blog should be promoted on all the social media platforms where ever club is active.
 * [ ] &#x20;Writers should be mentioned on every post if they have their account on the platform.
 
-_**Guidelines are to be strictly followed and should be guarded by Editors.**_
+_**Guidelines are to be strictly followed and must be safeguarded by Editors.**_
 
