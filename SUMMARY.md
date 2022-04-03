@@ -11,6 +11,7 @@
 ## Activities
 
 * [🧑🏫 Club Service](activities/club-service.md)
+* [⌨ Hands On](activities/hands-on.md)
 * [💻 Community Meet](activities/community-meet.md)
 * [🔐 Cyber Meet](activities/cyber-meet.md)
 * [📄 Blog](activities/blog.md)
