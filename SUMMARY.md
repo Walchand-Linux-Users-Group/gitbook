@@ -10,10 +10,11 @@
 
 ## Activities
 
-* [🧑🏫 Club Service](activities/club-service.md)
+* [🛠 Framework](activities/framework.md)
 * [💻 Community Meet](activities/community-meet.md)
-* [⌨ Hands On](activities/hands-on.md)
+* [🧑🏫 Club Service](activities/club-service.md)
 * [🔐 Cyber Meet](activities/cyber-meet.md)
+* [⌨ Hands On](activities/hands-on.md)
 * [📄 Blog](activities/blog.md)
 
 ## Events
