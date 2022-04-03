@@ -20,6 +20,7 @@ So here we bring **Club Service** where we aim gaining knowledge through our pee
 
 ### Presenter's Guidelines
 
+* [ ] Presenters must be **part of Assistant Board** and count must be **at least 2**.
 * [ ] Presenter should **ensure authenticity** of the information from multiple sources.
 * [ ] No content of the presentation should be copied from any other source(your understanding should be the source 😊) and should be **plagiarism free**.
 * [ ] **First slide** should always be the **poster** created for the Club Service.

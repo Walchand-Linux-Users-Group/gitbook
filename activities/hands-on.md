@@ -8,7 +8,7 @@ Einstein has already told us the real meaning of understanding. Knowledge is jus
 
 So here we bring **Club Service** where we aim gaining knowledge through our peer who has already worked on a topic, teaching us, clearing doubts in a very structured manner. We gather in the classroom learn and understand, discuss and the end test our understanding making us thorough in the topic.
 
-### Workflow
+## Workflow
 
 ![](../.gitbook/assets/club-service.png)
 
@@ -18,7 +18,7 @@ So here we bring **Club Service** where we aim gaining knowledge through our pee
 * **Day 7 - Day 10**: **Minimum 2 demos** of the Club Service and **publishing** of **promotional message**.
 * **Day 11 - Day 14**: **Conduct Club Service**.&#x20;
 
-### Presenter's Guidelines
+## Presenter's Guidelines
 
 * [ ] Presenter should **ensure authenticity** of the information from multiple sources.
 * [ ] No content of the presentation should be copied from any other source(your understanding should be the source 😊) and should be **plagiarism free**.
@@ -28,7 +28,7 @@ So here we bring **Club Service** where we aim gaining knowledge through our pee
 * [ ] **Density of images** in the presentation should be good and should be distributed. Images here refer to diagrams, flowcharts, etc.
 * [ ] Presentation should have **References** and **Further Reading** slide at the end.
 
-### Promotion Guidelines
+## Promotion Guidelines
 
 * [ ] Design of poster should be **approved by President/Vice President**.
 * [ ] Club Service should be promoted on **all the social media platforms** where ever club is active.
