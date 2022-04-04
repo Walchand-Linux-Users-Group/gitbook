@@ -4,7 +4,7 @@
 >
 > \- Albert Einstein
 
-Einstein has already told us the real meaning of understanding. Knowledge is just a group of facts until we understand the topic and its inner workings, and this knowledge can be achieved through various sources. Understanding and gaining knowledge of the topic from ocean of sources and tracing finest parts of i can be difficult and time consuming.&#x20;
+Einstein has already told us the real meaning of understanding. Knowledge is just a group of facts until we understand the topic and its inner workings, and this knowledge can be achieved through various sources. Understanding and gaining knowledge of the topic from ocean of sources and tracing finest parts of it can be difficult and time consuming.&#x20;
 
 So here we bring **Club Service** where we aim gaining knowledge through our peer who has already worked on a topic, teaching us, clearing doubts in a very structured manner. We gather in the classroom learn and understand, discuss and the end test our understanding making us thorough in the topic.
 
