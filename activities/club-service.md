@@ -6,7 +6,7 @@
 
 Einstein has already told us the real meaning of understanding. Knowledge is just a group of facts until we understand the topic and its inner workings, and this knowledge can be achieved through various sources. Understanding and gaining knowledge of the topic from ocean of sources and tracing finest parts of it can be difficult and time consuming.&#x20;
 
-So here we bring **Club Service** where we aim gaining knowledge through our peer who has already worked on a topic, teaching us, clearing doubts in a very structured manner. We gather in the classroom learn and understand, discuss and the end test our understanding making us thorough in the topic.
+So here we bring **Club Service** where we aim gaining knowledge through our peers who have already worked on a topic and they will teach us, clear our doubt in a very structured manner. We gather in the classroom learn, understand, discuss the topic and at the end, test our understanding by conducting a quiz which in turn makes us thorough in the understanding of the topic.
 
 ### Workflow
 
