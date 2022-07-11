@@ -1,7 +1,7 @@
 ---
 description: >-
   Let's go through the architectural journey of Walchand Linux Users' Group's
-  legacy...
+  legacy.
 ---
 
 # 🐧 Walchand Linux Users' Group Wiki
