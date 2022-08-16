@@ -77,6 +77,8 @@ First introduced in 1983, MBR stands for Master Boot Record as MBR is a special 
 
 Limitations of MBR are like, MBR also only supports up to four primary partitions—if you want more, you have to make one of your primary partitions an “extended partition” and create logical partitions inside it. MBR only works with disks up to 2 TB in size. GPT is gradually replacing MBR. It replaces the old BIOS with something modern, it replaces the clunky old MBR partitioning system with something more modern. It’s called the GUID Partition Table because every partition on your drive has a “globally unique identifier,” or GUID—a random string so long that every GPT partition on earth likely has its unique identifier.
 
+![](../.gitbook/assets/Difference-between-MBR-and-GPT.png)
+
 GPT does not have the same limitations as MBR. GPT-based drives can be much larger, with size limits dependent on the operating system and its file systems. GPT also allows for a nearly unlimited number of partitions. Again, the limit here will be your operating system—Windows allows up to 128 partitions on a GPT drive, and you don’t have to create an extended partition to make them work.
 
 ![](../.gitbook/assets/mbr-disk-structure.webp)
