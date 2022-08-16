@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Memory and Storage Management in Linux
 
 ### Writers:
@@ -51,13 +47,13 @@ In Linux, every task/process is divided into pages. A process is nothing but a s
 
 &#x20;To access all the pages while loading and running the applications operating system can't search for the whole disk which in the end downgrades the performance. So Linux maintains a virtual address in the table. The Physical addressing mode requires no page tables and the processor does not try to perform any address translations in this mode. The Linux kernel is linked to run in physical address space. To know the virtual memory size you can use the command `grep VmallocTotal /proc/meminfo` which will give the total size of virtual memory.
 
-
+![](../.gitbook/assets/9\_01\_VirtualMemoryLarger.jpg)
 
 ## Linux Page Tables
 
 Linux divides the pages into three levels of page tables. Each Page Table accessed contains the page frame number of the [\[2\]](https://pt.slideshare.net/adisesha12/operating-system-116114239) next level of the Page Table. Fig shows how a virtual address can be broken into several fields; each field providing an offset into a particular Page Table. To translate a virtual address into a physical one, the processor must take the contents of each level field, convert it into an offset into the physical page containing the Page Table and read the page frame number of the next level of the Page Table. This is repeated three times until the page frame number of the physical page containing the virtual address is found. Now the final field in the virtual address, the byte offset, is used to find the data inside the page. Although x86 processors have two levels of the page table.
 
-
+![](../.gitbook/assets/img13.gif)
 
 ## Partitions of the Disc in Linux
 
@@ -83,7 +79,7 @@ Limitations of MBR are like, MBR also only supports up to four primary partition
 
 GPT does not have the same limitations as MBR. GPT-based drives can be much larger, with size limits dependent on the operating system and its file systems. GPT also allows for a nearly unlimited number of partitions. Again, the limit here will be your operating system—Windows allows up to 128 partitions on a GPT drive, and you don’t have to create an extended partition to make them work.
 
-
+![](../.gitbook/assets/mbr-disk-structure.webp)
 
 ## How Linux manages Storage Devices
 
@@ -105,7 +101,7 @@ Just like it is difficult to understand the difference between these phrases:
 
 A child can be frightened by the PowerPC's memory management. Young children may be scared by PowerPC's memory management. In the PowerPC, there is a memory management scheme that can cause small children to get scared. Small children can be scared by the PowerPC's memory management. PowerPC memory management can scare small children.
 
-The same is the complexity of memory management in Power PC
+The same is the complexity of memory management in Power PC !
 
 ## References
 
