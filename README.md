@@ -4,14 +4,24 @@ coverY: 0
 
 # Walchand Linux Users' Group Blog
 
-**Walchand Linux Users' Group(WLUG)** is an open source technology oriented club which focus on community based learning.
+Hey, welcome to the blog section of Walchand Linux Users' Group. Here you'll find entire stack of blogs written by our club members as well as the community.\
+Feel free to explore them!
 
-Now **WLUG** present weekly/bi-weekly blogs in which you will gain knowledge about most recent technologies and also the all time open source technologies. These blogs are not only written by our club members but also by our community. To contribute in these blogs you may contact any one the club members and present your idea, blogs will be published after verification.\
-Along with this you can also share your views and opinions on your blogs as well as request a blog on a specific technology, preferably open-source related.
+## **About Blogs**
 
-For any queries or suggestion you may contact:
+* Blogs are published on weekly or bi-weekly basis.
+* Blogs are based on latest emerging technologies, tools, etc. Mostly focusing on open-source.
+* The content of the blog is not only theoretical but also contains images/snapshots which helps in visualising the points briefly.
+* The blogs can be written by anyone. (Check _How To Contribute)_
 
-_Dnyaneshwari_ (`+91 93257 89248`)\
-_Daulatrao_ ( `+91 70204 48836`) \
-_Ankur_ ( `+91 94203 91705`)\
-_Sagar_ ( `+91 93597 65207`)&#x20;
+## **How to Contribute**
+
+1. Inform any of the club member(preferably given below members) about the blog and topic.
+2. You may choose any of the technologies but open-source related one is preferred.
+3. Once you informed the club about the topic further process will be carried out and you'll be acknowledged from time to time.
+
+For suggestions or queries contact these given members:
+
+1. DnyaneshwariKolapkar - president@wcewlug.org
+2. Nilay Shirke - editor@wcewlug.org\
+   ****
