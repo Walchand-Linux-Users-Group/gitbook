@@ -22,6 +22,6 @@ Feel free to explore them!
 
 For suggestions or queries contact these given members:
 
-1. DnyaneshwariKolapkar - president@wcewlug.org
-2. Nilay Shirke - editor@wcewlug.org\
+1. President - president@wcewlug.org
+2. Editor - editor@wcewlug.org\
    ****
