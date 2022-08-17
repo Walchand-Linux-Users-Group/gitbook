@@ -22,6 +22,6 @@ Feel free to explore them!
 
 For suggestions or queries contact these given members:
 
-1. President - `mailto:president@wcewlug.org`
+1. President - `mailto:president@wcewlug.com`
 2. Editor - `mailto:editor@wcewlug.org`\
    ****
