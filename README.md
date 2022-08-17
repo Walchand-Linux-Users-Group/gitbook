@@ -22,6 +22,6 @@ Feel free to explore them!
 
 For suggestions or queries contact these given members:
 
-1. President - `mailto:president@wcewlug.com`
+1. President - `mailto:daulatrao24@gmail.com`
 2. Editor - `mailto:editor@wcewlug.org`\
    ****
