@@ -35,6 +35,6 @@
 
 ## Policies
 
-* [Privacy Policy](policies/privacy-policy.md)
+* [🏛 Privacy Policy](policies/privacy-policy.md)
 * [Terms & Conditions](policies/terms-and-conditions.md)
 * [Cancellation/Refund Policy](policies/cancellation-refund-policy.md)

@@ -6,7 +6,7 @@ Some sub-domains are reserved specially for events and may/may not be down andgh
 
 1. Frontend - linux-diary.wcewlug.org
 2. Backend API - api.linux-diary.wcewlug.org
-3. War Games - inux-diary.wcewlug.org/wargames
+3. War Games - wargame.linux-diary.wcewlug.org
 4. Other - \*.linux-diary.wcewlug.org
 
 ### Metamorphosis
