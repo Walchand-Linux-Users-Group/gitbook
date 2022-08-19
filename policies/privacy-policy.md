@@ -6,17 +6,17 @@ description: >-
 
 # 🏛 Privacy Policy
 
-### What information does Application obtain and how is it used?
+### What information does the Application obtain and how is it used?
 
 #### User Provided Information
 
-The Application obtain the information you provide when you register. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+The Application obtains the information you provide when you register. Registration is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register.
 
-When you register with us and use the Application, you generally provide (a) your name, email and other registration information; (b) transaction-related information, such as when you make purchases and use applications from us; (c) information you provide us when you contact us for help and; (d) information you enter into our system when using the Application, such as contact information.
+When you register with us and use the Application, you generally provide (a) your name, email and other registration information; (b) transaction-related information, such as when you register for a paid event conducted by the organization and use our application; (c) information you provide us when you contact us for help; and(d) information you enter into our system when using the Application, such as contact information.
 
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+We may also use the information you provided us to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-### Automatically Collected Information
+#### Automatically Collected Information
 
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
@@ -32,7 +32,7 @@ We may disclose User Provided and Automatically Collected Information:
 
 * as required by law, such as to comply with a subpoena, or similar legal process;
 * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-* with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+* with our trusted service providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
 ### What are my opt-out rights?
 
@@ -56,7 +56,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 ### Your Consent
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer or; handheld device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
 
 ### Contact us
 
