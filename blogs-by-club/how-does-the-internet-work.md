@@ -33,8 +33,6 @@ In the 1970's and 1980**'**s, concepts like inter-network, email and domain name
 
 ## What is Switch and Why do we need it? <a href="#b56c" id="b56c"></a>
 
-
-
 If you want the computers in the same environment (in the same house, office, etc.) to communicate with each other, we can use a device called switch. We connect all the computers to the switch using cables, mostly made up of copper. Generally, copper wires of type CAT-5 and CAT-6 are used, where CAT stands for category and CAT-6 cables are faster in data transmission than CAT 5 cables. In addition to copper cables, some switches support Fiber Optic cables which are much faster than copper cables in data transmission.
 
 A switch cannot use wireless technology generally, so we mostly use cables to connect to the switch. However if you want devices in the same environment to be connected using wireless technology, you should use **Access Point**. Access Point uses wireless technology and switches use cables, but both serve the same purpose of making computers communicate with each other in the same environment. This is how a wireless access point looks like.
@@ -59,9 +57,7 @@ This is how an actual switch with a number of ports looks like. The number of po
 
 ## What is Router? <a href="#3644" id="3644"></a>
 
-
-
-If we have a switch; computers can only communicate within themselves on the LAN, and not the internet. So how do we connect these computers to the internet? This is where the router comes into play.
+If we have a switch, computers can only communicate within themselves on the LAN, and not the internet. So how do we connect these computers to the internet? This is where the router comes into play.
 
 The main task of a Router is to enable computers to connect to the internet. Without a router, it’s impossible to connect to the internet. A computer first sends the message (packet) to switch then to the router and then it finally gets to the internet.
 
