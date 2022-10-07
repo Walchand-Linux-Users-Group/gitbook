@@ -71,7 +71,7 @@ If a computer can send a packet to the internet, this means that this computer c
 
 Can you visualise the internet in your mind? and what does the internet actually mean ?
 
-Let’s understand what the internet actually stands for; Connecting to the internet can stand for connecting to another computer anywhere in the other world. The structure that connects all LAN's in the world is the internet. It basically can be thought of as a mesh kind of structure having routers. It can be said as a network of networks.
+Let’s understand what the internet actually stands for,  Connecting to the internet can stand for connecting to another computer anywhere in the other world. The structure that connects all LAN's in the world is the internet. It basically can be thought of as a mesh kind of structure having routers. It can be said as a network of networks.
 
 This model you see is a simplified model so that it is easy to understand, this structure in real life is much more complex.
 
