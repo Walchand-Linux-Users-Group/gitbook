@@ -8,6 +8,6 @@
 * [Memory and Storage Management in Linux](the-company/vision-and-values.md)
 * [How does the Internet work?](blogs-by-club/how-does-the-internet-work.md)
 
-## Blogs by COmmunity
+## Blogs by Community
 
 * [Overview](blogs-by-community/overview.md)
