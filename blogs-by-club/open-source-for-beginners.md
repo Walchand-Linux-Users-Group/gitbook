@@ -11,7 +11,7 @@ description: Explore the way towards Open Source
 
 **Open source** is quite a famous term nowadays. It is highly used not only by programmers but also by common people. But what exactly is open source? Let’s have thorough knowledge about it.                      &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **What is Open Source?** 🤔 <a href="#e7a9" id="e7a9"></a>
 
