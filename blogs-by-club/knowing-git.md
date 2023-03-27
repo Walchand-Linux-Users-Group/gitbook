@@ -8,7 +8,13 @@ description: Exploring Git and Version Control
 
 * [Vikas Gouda](https://github.com/vikas-gouda)
 * [Lokesh Patil](https://github.com/lokeshpatil01082002)
-* [Siddharth Salunke](https://github.com/Sidd-77)
+* [Siddharth Salunkhe](https://github.com/Sidd-77)
+
+
+
+_"Git is a way to manage the chaos that software development inevitably creates."_&#x20;
+
+**- Jim Jagielski**
 
 ## Origin of Git
 
@@ -295,7 +301,11 @@ If any optional \<path>  is specified as arguments then only those paths are aff
 
 ``
 
-With all these valuable and useful features of GIT, it has been a necessity in the programming world. Without GIT we will loose the track of our LIFE, since we all are surrounded by the codes, all those little 0's and 1's packed in a file. So before ending the Blog there is only one thing that we can say.. "_**Programmers who don't know GIT, are not Programmers**_"
+So, if you're interested in improving your skills as a developer, I encourage you to dive deeper into GIT and all it has to offer. With the right knowledge and tools at your disposal, you can become a more efficient and effective developer, and take your projects to the next level.
+
+And if you're already a seasoned Git user, remember to share your knowledge and expertise with others. By doing so, you'll not only help others succeed, but you'll also contribute to the larger community of developers and coders who are using Git to build the future.
+
+In conclusion, Git is a powerful tool for managing code and collaborating with others. Whether you're just starting out or have been using Git for years, there's always more to learn and explore. So keep digging deeper, and keep pushing the boundaries of what's possible with Git!
 
 For more information about our club you can visit us on:
 
