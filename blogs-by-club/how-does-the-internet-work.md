@@ -11,7 +11,7 @@ _“We are all now connected by the internet, like neurons in a giant brain.”_
 
 \- **Stephen Hawking**
 
-****
+
 
 ## Introduction <a href="#132e" id="132e"></a>
 
@@ -125,7 +125,7 @@ Setting up a WAN is costly and not an easy task. There are various methods of WA
 
 Tunnelling technology makes the packet act as if it is going through a physical tunnel. The packet passes through many routers of LANs and the internet in its journey to the destination. But VPN tunnelling is actually set up between two routers of the first and last LANs. This is called a site-to-site VPN. So, the tunnel is not physical as shown in the below picture. Then what actually it is?
 
-&#x20;                                                ****                                                 ![](<../.gitbook/assets/image (3).png>)
+&#x20;                                                ![](<../.gitbook/assets/image (3).png>)
 
 Let’s understand the working of VPN tunnelling by considering examples of post letters. There are two types of letters — open letters and enveloped letters. Postmen carry these letters from one location to another. In this process, postmen can read open letters but not enveloped ones. In the similar way, when a packet is sent over the public internet, it can be noticed by anyone. So, in VPN tunnelling when a packet arrives at the router in LAN, this packet will be put into another packet and then it will be sent further. Due to this, security increases. But, a question can come into your mind that a postman can open an envelope and read a letter. Same thing hackers do to the packet due to some vulnerability. Then, encryption comes into the picture. For more security, the original packet is encrypted first and encapsulated in another packet. Finally, the packet is sent to the destination safely through the VPN tunnel. At the destination LAN, the packet is decapsulated and decrypted. In this way, safe data transformation happens in WAN. But there is no such thing as 100% security, because each system has some kind of vulnerability.\
 

@@ -9,7 +9,6 @@
 * [How does the Internet work?](blogs-by-club/how-does-the-internet-work.md)
 * [Open Source: For Beginners](blogs-by-club/open-source-for-beginners.md)
 * [Knowing Git](blogs-by-club/knowing-git.md)
-* [Page 1](blogs-by-club/page-1.md)
 
 ## Blogs by Community
 

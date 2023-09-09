@@ -57,7 +57,7 @@ Now that you are done with your documentation, you are free to start with your p
 
 ### _**Where to get the source code of open-source software?**_
 
-_****_
+
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*_4YaV5kTyF7KLRlh7qbdCg.png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@ If you do not find the source code on GitHub, do not give up! Most of the compan
 
 ### _**How to modify the source code of an OSS?**_
 
-_****_
+
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*SBupfv8OqPJ5DMovdmcqug.png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +85,7 @@ In case the source code is not available on GitHub, most of the companies have a
 
 ### _**Security in Open Source**_
 
-_****_
+
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*FyMRR3MdCvj0thOZHEtKbg.png" alt=""><figcaption></figcaption></figure>
 
@@ -147,7 +147,7 @@ The open-source software**'**s are developed by a community and not by a small g
 
 ### **What is GSOC (Google summer of code)?**
 
-****
+
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/0*OT_OqWJV8TKNutQD" alt=""><figcaption></figcaption></figure>
 
@@ -165,7 +165,7 @@ Google shortlists the organisations which are applied to take part in this globa
 
 #### **1. Libre office, the alternative for Microsoft office**
 
-****
+
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*myioyItyKNMvQHXsDWB-ug.png" alt=""><figcaption></figcaption></figure>
 
