@@ -95,7 +95,7 @@ Now let’s set up GIT on our Computer….
 
 `git config --global user.email "your_eamil@email.com"`
 
-``
+
 
 Now we have successfully installed GIT on our computer, So to configure our username and email we have to run the above two commands. Now you have a question... _**“Why should I give my username and email to GIT?”**_, the answer is simple, when you make commits the name and the email through which a developer made a commit gets recorded so that a complete track of changes can be logged.
 
@@ -191,7 +191,7 @@ Re-basing broadly depicts the merging process with linearity.&#x20;
 
 `$ git rebase`
 
-``
+
 
 ### git bisect
 
@@ -215,7 +215,7 @@ _ii) To know about a good commit_
 
 `$ git bisect bad z123`
 
-``
+
 
 ### git cherry-pick
 
@@ -299,7 +299,7 @@ If any optional \<path>  is specified as arguments then only those paths are aff
 
 `$ git clean`
 
-``
+
 
 So, if you're interested in improving your skills as a developer, I encourage you to dive deeper into GIT and all it has to offer. With the right knowledge and tools at your disposal, you can become a more efficient and effective developer, and take your projects to the next level.
 
